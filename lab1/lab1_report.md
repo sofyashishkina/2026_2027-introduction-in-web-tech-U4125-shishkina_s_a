@@ -4,7 +4,7 @@ Course: [Введение в веб технологии](https://itmo-ict-facul
 Year: 2025/2026<br>
 Group: U4125<br>
 Author: Shishkina Sofya Anatolievna<br>
-Lab: Lab0<br>
+Lab: Lab1<br>
 Date of create: 08.09.2026<br>
 Date of finished: 11.09.2026<br>
 
