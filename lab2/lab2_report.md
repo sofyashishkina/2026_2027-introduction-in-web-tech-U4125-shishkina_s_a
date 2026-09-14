@@ -6,7 +6,7 @@ Group: U4125<br>
 Author: Shishkina Sofya Anatolievna<br>
 Lab: Lab1<br>
 Date of create: 12.09.2026<br>
-Date of finished: 12.09.2026<br>
+Date of finished: -<br>
 
 # Лабораторная работа №2
 
